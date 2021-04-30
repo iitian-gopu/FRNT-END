@@ -1,0 +1,52 @@
+body{
+  background: rgba(0, 0, 0, 0.85);
+  color: white;
+}
+h1{
+  color: #98d3e3;
+}
+h2{
+  color: #82d6a4;
+}
+li{
+  color: rgba(255, 100, 231, 0.64);
+}
+p{
+  background: red;
+  color: white;
+}
+input{
+  border: 5px red double;
+}
+.hello{
+  background: blue;
+  color: white;
+}
+#special{
+  border:10px orange solid;
+}
+input[type='text']{
+  background: green;
+}
+li input[checked]{
+  margin-left:  50px ;
+}
+label{
+  text-transform: uppercase;
+}
+label+input{
+  margin-left: 10px;
+}
+#special:first-letter{
+  color: green;
+  font-size: 100px;
+
+}
+h1:hover{
+  color: white;
+  border: 30px solid black;
+}
+
+a:hover{
+  color:pink;
+}

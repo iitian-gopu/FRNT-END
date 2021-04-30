@@ -1,0 +1,31 @@
+/*
+h1{
+  color: red;
+}
+option{
+  color: red;
+}
+select{
+  color: green;
+}
+label{
+  color: blue;
+  font-size: 25;
+  font-weight: bold;
+}
+input{
+  color: red;
+}
+body{
+color:
+}
+h2{
+  color: blue;
+}
+p{
+  color: inherit;
+}*/
+body{
+background-image: url(https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+background-size: contain;
+}

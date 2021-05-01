@@ -1,0 +1,34 @@
+H1{
+  text-align: center;
+  font-family: 'Orelega One', cursive;
+
+}
+TD{
+  height: 300PX;
+  width: 150px;
+  border: 20PX SOLID WHITE;
+}
+
+#ONE{
+ background:#9400D3;
+
+} #TWO{
+  background :#4B0082;
+} #THREE{
+  background:#0000FF;
+} #FOUR{
+  background:#00FF00;
+} #FIVE{
+  background:
+#FFFF00;
+} #SIX{
+  background:
+#FF7F00;
+}
+#SEVEN{
+ background:#FF0000;
+}
+.TAB{
+  margin: auto;
+
+}

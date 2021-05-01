@@ -1,0 +1,23 @@
+td{
+  height: 30px;
+  width: 30px;
+
+}
+#tab{
+
+  border: 2px solid black;
+margin: auto;
+}
+.black{
+  background: black;
+
+}
+.white{
+  background: white;
+}
+h1{
+  text-align: center;
+}
+td:hover{
+  border: 2px solid red;
+}

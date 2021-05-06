@@ -1,0 +1,37 @@
+#centre{
+  text-align: center;
+
+  padding-top: 25%;
+}
+body{
+  background-image: url(https://images.unsplash.com/photo-1545073255-7d382c4e78ac?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGF0aW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+background-size: cover;
+background-position: center;
+
+
+}
+.tc{
+color:#743091;
+font-weight: bold;
+font-size:3em;
+}
+hr{
+  width: 500px;
+
+
+}
+button{
+height: 70px;
+width: 160px;
+
+
+}
+#rt{
+border: solid #743091  1px;
+border-radius: 20px;
+}
+#bj{
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 20px;
+}
